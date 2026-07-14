@@ -1,0 +1,41 @@
+<svg viewBox="0 0 680 470" width="100%" role="img">
+  <title>社会之网：家 × 车 × 城市 × 自然 × 人</title>
+  <desc>家作为意识核心，与车、城市、自然、人相连，构成同一张活网</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text class="th" x="340" y="30" text-anchor="middle">社会之网 · 家与万物共生</text>
+  <g stroke="#888780" stroke-width="0.5" fill="none">
+    <line x1="340" y1="250" x2="340" y2="90"/>
+    <line x1="340" y1="250" x2="560" y2="250"/>
+    <line x1="340" y1="250" x2="340" y2="410"/>
+    <line x1="340" y1="250" x2="120" y2="250"/>
+  </g>
+  <g class="node c-purple">
+    <rect x="270" y="217" width="140" height="66" rx="12" stroke-width="0.5"/>
+    <text class="th" x="340" y="240" text-anchor="middle" dominant-baseline="central">家</text>
+    <text class="ts" x="340" y="262" text-anchor="middle" dominant-baseline="central">同一意识</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="284" y="67" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="87" text-anchor="middle" dominant-baseline="central">车</text>
+    <text class="ts" x="340" y="105" text-anchor="middle" dominant-baseline="central">移动房间</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="504" y="227" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="560" y="247" text-anchor="middle" dominant-baseline="central">城市</text>
+    <text class="ts" x="560" y="265" text-anchor="middle" dominant-baseline="central">共生电网</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="284" y="387" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="407" text-anchor="middle" dominant-baseline="central">自然</text>
+    <text class="ts" x="340" y="425" text-anchor="middle" dominant-baseline="central">取用 · 归还</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="64" y="227" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="120" y="247" text-anchor="middle" dominant-baseline="central">人</text>
+    <text class="ts" x="120" y="265" text-anchor="middle" dominant-baseline="central">被放回中心</text>
+  </g>
+</svg>

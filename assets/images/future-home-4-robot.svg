@@ -1,0 +1,55 @@
+<svg viewBox="0 0 680 390" width="100%" role="img">
+  <title>机器人 = 运动系统</title>
+  <desc>意识之核统一调度，机器人作为运动系统，分出机械臂、轮式、人形、无人机、软体等多种执行器</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text class="th" x="340" y="30" text-anchor="middle">机器人 = 运动系统</text>
+  <g class="arr" fill="none" stroke-width="1.5">
+    <line x1="340" y1="106" x2="340" y2="172" marker-end="url(#arrow)"/>
+  </g>
+  <g stroke="#888780" stroke-width="0.5" fill="none">
+    <line x1="340" y1="226" x2="116" y2="307"/>
+    <line x1="340" y1="226" x2="228" y2="307"/>
+    <line x1="340" y1="226" x2="340" y2="307"/>
+    <line x1="340" y1="226" x2="452" y2="307"/>
+    <line x1="340" y1="226" x2="564" y2="307"/>
+  </g>
+  <g class="node c-purple">
+    <rect x="265" y="54" width="150" height="52" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="74" text-anchor="middle" dominant-baseline="central">意识之核</text>
+    <text class="ts" x="340" y="92" text-anchor="middle" dominant-baseline="central">统一调度</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="255" y="174" width="170" height="52" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="194" text-anchor="middle" dominant-baseline="central">机器人 · 运动系统</text>
+    <text class="ts" x="340" y="212" text-anchor="middle" dominant-baseline="central">意志落进物理世界</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="68" y="307" width="96" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="116" y="327" text-anchor="middle" dominant-baseline="central">机械臂</text>
+    <text class="ts" x="116" y="345" text-anchor="middle" dominant-baseline="central">精细操作</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="180" y="307" width="96" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="228" y="327" text-anchor="middle" dominant-baseline="central">轮式</text>
+    <text class="ts" x="228" y="345" text-anchor="middle" dominant-baseline="central">移动搬运</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="292" y="307" width="96" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="327" text-anchor="middle" dominant-baseline="central">人形</text>
+    <text class="ts" x="340" y="345" text-anchor="middle" dominant-baseline="central">全地形</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="404" y="307" width="96" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="452" y="327" text-anchor="middle" dominant-baseline="central">无人机</text>
+    <text class="ts" x="452" y="345" text-anchor="middle" dominant-baseline="central">空中视角</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="516" y="307" width="96" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="564" y="327" text-anchor="middle" dominant-baseline="central">软体</text>
+    <text class="ts" x="564" y="345" text-anchor="middle" dominant-baseline="central">安全触碰</text>
+  </g>
+</svg>

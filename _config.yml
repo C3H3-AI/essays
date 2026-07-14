@@ -1,0 +1,5 @@
+title: C3H3 随笔
+description: 关于未来、技术与生活的随想
+markdown: kramdown
+exclude:
+  - README.md

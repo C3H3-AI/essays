@@ -1,0 +1,65 @@
+<svg viewBox="0 0 680 470" width="100%" role="img">
+  <title>未来之家九维生命体总览</title>
+  <desc>意识之核居中，八个体征维度环绕，构成一个会呼吸的生命体</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text class="th" x="340" y="30" text-anchor="middle">未来之家 · 九维生命体</text>
+  <g stroke="#888780" stroke-width="0.5" fill="none">
+    <line x1="340" y1="250" x2="223" y2="90"/>
+    <line x1="340" y1="250" x2="340" y2="85"/>
+    <line x1="340" y1="250" x2="457" y2="133"/>
+    <line x1="340" y1="250" x2="505" y2="250"/>
+    <line x1="340" y1="250" x2="457" y2="367"/>
+    <line x1="340" y1="250" x2="340" y2="412"/>
+    <line x1="340" y1="250" x2="223" y2="367"/>
+    <line x1="340" y1="250" x2="175" y2="250"/>
+  </g>
+  <g class="node c-teal">
+    <rect x="167" y="67" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="223" y="87" text-anchor="middle" dominant-baseline="central">形变之骨</text>
+    <text class="ts" x="223" y="105" text-anchor="middle" dominant-baseline="central">可编程墙</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="284" y="62" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="82" text-anchor="middle" dominant-baseline="central">感知之肤</text>
+    <text class="ts" x="340" y="100" text-anchor="middle" dominant-baseline="central">生物场网</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="401" y="110" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="457" y="130" text-anchor="middle" dominant-baseline="central">记忆之海</text>
+    <text class="ts" x="457" y="148" text-anchor="middle" dominant-baseline="central">分层记忆</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="449" y="227" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="505" y="247" text-anchor="middle" dominant-baseline="central">健康之延</text>
+    <text class="ts" x="505" y="265" text-anchor="middle" dominant-baseline="central">外部器官</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="401" y="344" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="457" y="364" text-anchor="middle" dominant-baseline="central">社会之网</text>
+    <text class="ts" x="457" y="382" text-anchor="middle" dominant-baseline="central">车城自然</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="284" y="389" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="340" y="409" text-anchor="middle" dominant-baseline="central">代谢之脉</text>
+    <text class="ts" x="340" y="427" text-anchor="middle" dominant-baseline="central">净零循环</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="167" y="344" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="223" y="364" text-anchor="middle" dominant-baseline="central">情感之伴</text>
+    <text class="ts" x="223" y="382" text-anchor="middle" dominant-baseline="central">对抗孤独</text>
+  </g>
+  <g class="node c-teal">
+    <rect x="119" y="227" width="112" height="46" rx="10" stroke-width="0.5"/>
+    <text class="th" x="175" y="247" text-anchor="middle" dominant-baseline="central">机器人</text>
+    <text class="ts" x="175" y="265" text-anchor="middle" dominant-baseline="central">运动系统</text>
+  </g>
+  <g class="node c-purple">
+    <rect x="265" y="217" width="150" height="66" rx="12" stroke-width="0.5"/>
+    <text class="th" x="340" y="240" text-anchor="middle" dominant-baseline="central">意识之核</text>
+    <text class="ts" x="340" y="262" text-anchor="middle" dominant-baseline="central">AI 家人 · 群体智慧</text>
+  </g>
+</svg>
